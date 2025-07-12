@@ -7,8 +7,9 @@ This repository contains an interactive **Power BI Sales Performance Dashboard**
 ## 📷 Dashboard Preview
 
 ### 💡 Page 1: Executive Overview  
-![Dashboard Overview](Screenshot (252).png)
-(Screenshot (253).png)
+![Dashboard Overview](Screenshot%20%28252%29.png)
+![Another View](Screenshot%20%28253%29.png)
+
 
 ---
 
